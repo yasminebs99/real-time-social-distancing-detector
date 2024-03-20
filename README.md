@@ -1,4 +1,3 @@
-# real-time-social-distancing-detector
 <h1>real time social distancing detector</h1>
 <h2>The Sparks Foundation Tasks</h2>
 <p>This repository contains the tasks that I completed while working for The Sparks Foundation.</p>
